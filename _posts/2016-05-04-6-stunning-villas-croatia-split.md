@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '6 Stunning Villas, Croatia, Split'
-datePublished: '2016-05-04T14:25:27.227Z'
-dateModified: '2016-05-04T13:52:37.855Z'
+datePublished: '2016-05-04T14:28:49.046Z'
+dateModified: '2016-05-04T14:25:27.422Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-6-stunning-villas-croatia-split.md
@@ -32,4 +32,4 @@ Villa 1
 
 Contact:
 
-MikeLeatres@
+MikeLeatres@gmail.com
