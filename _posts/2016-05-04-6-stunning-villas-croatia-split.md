@@ -5,12 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: '6 Stunning Villas, Croatia, Split'
-datePublished: '2016-05-04T13:08:31.710Z'
-dateModified: '2016-05-04T11:33:01.684Z'
+datePublished: '2016-05-04T14:25:27.227Z'
+dateModified: '2016-05-04T13:52:37.855Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-04-6-stunning-villas-croatia-split.md
-published: true
 authors: []
 publisher:
   name: null
@@ -30,3 +29,7 @@ Villa 1
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8ceedd1-25df-421d-aa77-08790e4f7b07.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27281856-c0d5-481c-bb89-79e539ed00b1.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee4cf0d5-6b03-4fad-a94b-d1bf8a57bc46.png)
+
+Contact:
+
+MikeLeatres@
